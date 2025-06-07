@@ -1,5 +1,6 @@
 # LineBragger
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 A colorful, interactive Python terminal app that lets you **brag** about your programming projects!  
 Scan a folder, count your lines of code, and get the stats that matter—presented with a vibrant rainbow ASCII UI.
 
